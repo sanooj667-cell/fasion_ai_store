@@ -27,3 +27,16 @@ def product_detail(request, pk):
         'related_products': related_serializer.data
     })
 
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,6 +1,6 @@
 from django.urls import path
 
-from products import views
+from backent.apps.products import views
 from .views import product_detail, product_list
 
 urlpatterns = [
